@@ -2,8 +2,8 @@
 ## Project X
 ## An app that saves all the anime, manga, TV shows, etc. in a list and has links linking the user to the media.
 ### Inspired by a friend who kept wishing for an easier way to know what Korean dramas she needs to watch. There aren't really anything that help so why not develop an application that allows her to enter the title and save it on the go? Even if the show isn't found in our database, we can still add it to the list.  
-1. Includes:
-⋅⋅*User inputs title (autofill like Google's) that will be saved onto a user list.
+## Includes:
+...User inputs title (autofill like Google's) that will be saved onto a user list.
 ⋅⋅*May or may not include a mandatory account.
 ⋅⋅*User can develop multiple lists
 ⋅⋅*User may share lists. Will have private/public
