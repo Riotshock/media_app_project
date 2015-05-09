@@ -39,4 +39,4 @@
 <dd>Inspiration</dd>
 [Crunchyroll Application](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid&hl=en)
 <dd>Front-end Design</dd>
-[Balsamiq Mock-Ups Front-End Design](https://balsamiq.com/products/mockups/
+[Balsamiq Mock-Ups Front-End Design](https://balsamiq.com/products/mockups/)
