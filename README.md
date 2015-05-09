@@ -12,30 +12,31 @@
 <dd>Will ask an already established website like crunchyroll if we can use their database of media. In return, we link their website to the media.</dd>
 </dl>
 ## Project Goals
-### Learn app development
-⋅⋅*I have someone else working with me (for Apple products) but we are both extremely new.
-⋅⋅*Each week we set up a goal; e.g. have buttons work, input changes a certain text, input adds to a list, etc.
+<dl><dt> Learn app development</dt>
+<dd>I have someone else working with me (for Apple products) but we are both extremely new.</dd>
+<dd>Each week we set up a goal; e.g. have buttons work, input changes a certain text, input adds to a list, etc.</dd>
+</dl>
 ### Database set-up
-⋅⋅*How do we store the data? Still in consideration
+<dd>How do we store the data? Still in consideration</dd>
 ### Outlook/Design
-⋅⋅*Consistency with android/apple devices
-⋅⋅*Easy and efficient to use
-⋅⋅*Will draw users in
-⋅⋅*Mockups (Already have a few in mind)
+<dd>Consistency with android/apple devices</dd>
+<dd>Easy and efficient to use</dd>
+<dd>Will draw users in</dd>
+<dd>Mockups (Already have a few in mind)</dd>
 ### Testing
-⋅⋅*Have users download the app and use test-drive it for a few weeks.
-⋅⋅*Tweak based on recommendations/criticisms
+<dd>Have users download the app and use test-drive it for a few weeks.</dd>
+<dd>Tweak based on recommendations/criticisms</dd>
 ##Technology to know
 ### App development
-⋅⋅*Android Studio
-⋅⋅*Eclipse
-⋅⋅*XCode
+<dd>Android Studio</dd>
+<dd>Eclipse</dd>
+<dd>XCode</dd>
 ### Database
-⋅⋅*SQLite Database?
-⋅⋅*Still not sure, working on layout and the coding for front-end first
+<dd>SQLite Database?</dd>
+<dd>Still not sure, working on layout and the coding for front-end first</dd>
 
 ###Helpful links
-⋅⋅*Inspiration
+<dd>Inspiration</dd>
 [Crunchyroll Application](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid&hl=en)
-⋅⋅*Front-end Design
+<dd>Front-end Design</dd>
 [Balsamiq Mock-Ups Front-End Design](https://balsamiq.com/products/mockups/
