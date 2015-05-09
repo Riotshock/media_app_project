@@ -42,5 +42,5 @@
 [Balsamiq Mock-Ups Front-End Design](https://balsamiq.com/products/mockups/)
 
 ##Drawn up Mockups
-![Mockup 1][https://cloud.githubusercontent.com/assets/10581533/7548507/85419a38-f5da-11e4-84f5-1d42773e6617.png]
+![Mockup 1](https://cloud.githubusercontent.com/assets/10581533/7548507/85419a38-f5da-11e4-84f5-1d42773e6617.png)
 ![Mock-up 2](https://cloud.githubusercontent.com/assets/10581533/7548506/8345da82-f5da-11e4-8c10-353dad03bb06.png)
